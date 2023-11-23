@@ -84,5 +84,8 @@ img{
     section{
         flex-direction: column;
     }
+    p{
+        font-size: 10px;
+    }
 }
 /*'exceção' tela menor fim*/
